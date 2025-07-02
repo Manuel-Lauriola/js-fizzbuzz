@@ -12,6 +12,9 @@ for(let i = 1; i<=100; i++) {
     let i = "Buzz"
     console.log(i)
   }
-
+  else if(i % 3 === 0){
+    let i = "Fizz"
+    console.log(i)
+  }
 }
 
