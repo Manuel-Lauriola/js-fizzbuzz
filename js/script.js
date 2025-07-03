@@ -17,8 +17,5 @@ for(let i = 1; i<=100; i++) {
     // console.log(i)
   }
   // infine stampo i numeri che non sono multipli di 3 o 5
-  // else {
-  //   console.log(i)
-  //   }
   console.log(message)
 }
